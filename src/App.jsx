@@ -10,7 +10,7 @@ const App = () => {
   return (
     <>
       <Navbar />
-      <div className="max-w-7xl pt-8 mx-auto md:pt-14 px-6">
+      <div className=" scroll-smooth max-w-7xl pt-8 mx-auto md:pt-14 px-6">
         <HeroSection />
         <FeatureSection />
         <Workflow />

@@ -19,7 +19,7 @@ export const navItems = [
   { label: "Resume", href: "#" },
   { label: "Services", href: "#" },
   { label: "Skills", href: "#" },
-  { label: "Projects", href: "#" },
+  { label: "Projects", href: "#pricing" },
 ];
 
 export const testimonials = [
